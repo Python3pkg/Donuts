@@ -1,7 +1,7 @@
 '''A module containing the Donuts class, used for measuring
 shifts between images in CCD data.
 '''
-from __future__ import print_function, with_statement, division
+
 from astropy.io import fits
 from .image import Image
 
